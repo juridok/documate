@@ -1,1 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+/* Start of CSS by HT - 26 April 2020 */
+body {
+	font-family: 'Source Sans Pro', sans-serif; !important; 
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Source Sans Pro', sans-serif;;
+}
 
