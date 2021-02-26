@@ -452,7 +452,7 @@ mark,
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -9609,6 +9609,13 @@ span.dacollectnum,#hslNav ul.links li a {
 }
 #dacollapseOne .card-body {
     padding: 0.75rem 0 1.25rem;
+}
+
+nav#hslNav .linksContainer {
+    display: none!important;
+}
+#hslNav .logoContainer {
+    pointer-events: none;
 }
 
 /* My Responsive style start here
