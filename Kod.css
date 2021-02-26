@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+/* Start of CSS by HT - 26 April 2020 */
+body {
+	font-family: 'Source Sans Pro', sans-serif; !important; 
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Source Sans Pro', sans-serif;;
+}
+.da-page-header h1 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 1.4;
+}
+.form-control {
+    border-radius: 0;
+}
+.form-control:focus {
+    border-color: #0099cc;
+    box-shadow: 0 0 0 0.2rem #0099cc40;
+}
+.btn-primary {
+    background: #010101;
+    border: 0;
+    border-radius: 0;
+}
+.btn-primary:hover {
+    background: #0099cc;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle, .btn-primary.focus, .btn-primary:focus {
+    outline: 0;
+    background-image: none;
+    box-shadow: inset 0 3px 5px rgba(0,0,0,0.125) !important;
+    background-color: #0099cc;
+}
+.btn-primary[role='checkbox'], .btn-primary[role='radio'] {
+	background: #e2e6ea;
+    color: #010101;
+}
+.btn-light {
+    color: #fff;
+    background-color: #010101;
+    border-color: #010101;
+}
+.text-muted, .labelauty-checked-image {
+    color: #ffffff !important;
+    margin-right: 7px;
+}
+.btn-primary[role='checkbox'] .labelauty-checked-image, .btn-primary[role='radio'] .labelauty-checked-image {
+    color: #010101 !important;
+}
+label.col-md-4.col-form-label {
+    flex-basis: 100% !important;
+    text-align: left !important;
+    max-width: unset;
+}
+.form-group.darequired .da-form-label:after {
+    right: unset;
+    margin-left: 3px;
+}
+.da-page-header {
+    margin-top: 30px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #010101;
+    border-radius: 0;
+}
+a {
+    color: #010101;
+}
+
+.daundertext a {
+	display: none;
+}
+
+.daundertext:after {
+	content: Forts”\00e4″tt senare;
+}
+
+/*# sourceMappingURL=docassemble_global.css.map */
+
+
+
+
+
+
+
+
